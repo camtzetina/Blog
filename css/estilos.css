@@ -1,0 +1,29 @@
+body{
+    background-color: #f57b51;
+    color:#f6eedf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#menu {
+    font-size: 30px;
+    background-color: #d63447;
+}
+.imagen{
+    width: 20%;
+    border: 1px solid #d63447;
+    float: right;
+}
+h1{
+    font-size: 50px;
+    color: #d63447;
+    background-color: #f6eedf;
+    
+}
+#texto-cuerpo{
+    font-size: 30px;
+    background-color: #d63447
+}
+.lista{
+    color: #f57b51;
+    background-color:#f6eedf;
+}
