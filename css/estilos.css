@@ -1,29 +1,131 @@
-body{
-    background-color: #f57b51;
-    color:#f6eedf;
+body {
+    background-color: #f1b24b;
+    color: #f6eedf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#contacto {
+    background-color: #4bb39a;
+    color: #f6eedf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#blog {
+    background-color: #4bb39a;
+    color: #f6eedf;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #menu {
+    padding: 4px;
     font-size: 30px;
-    background-color: #d63447;
+    background-color: #2A2926;
+    color: #f1e6d1;
 }
-.imagen{
+
+.imagen {
     width: 20%;
-    border: 1px solid #d63447;
+    border: 1px solid #2A2926;
     float: right;
 }
-h1{
+
+h1 {
+    padding-left: 5px;
     font-size: 50px;
-    color: #d63447;
-    background-color: #f6eedf;
-    
+    color: #f1e6d1;
+    background-color: #d68438;
 }
-#texto-cuerpo{
+
+.contacto {
+    padding-left: 5px;
+    font-size: 50px;
+    color: #f1e6d1;
+    background-color: #36846b
+}
+
+#zona-encabezado {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #36846b;
+}
+
+#zona-encabezado h1,
+h2 {
+    padding-left: 5px;
+    text-align: center;
+    background-color: #36846b;
+    color: #f1b24b;
+}
+
+#texto-cuerpo {
+    padding-left: 5px;
     font-size: 30px;
-    background-color: #d63447
+    background-color: #d68438
 }
-.lista{
-    color: #f57b51;
-    background-color:#f6eedf;
+
+#texto-contacto {
+    padding-left: 5px;
+    font-size: 30px;
+    color: #f1e6d1;
+    background-color: #36846b;
+}
+
+#texto-blog {
+    padding-left: 5px;
+    font-size: 20px;
+    color: #f1e6d1;
+    background-color: #36846b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lista {
+    margin-right: 5px;
+    color: #d68438;
+    background-color: #f6eedf;
+}
+
+#zona-imagenes {
+    padding-bottom: 4px;
+    background-color: #f1e6d1;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+.texto-final {
+    background-color: #f1e6d1;
+    color: #f1b24b;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+}
+
+#menu a:link {
+    color: #d68438;
+}
+
+#menu a:visited {
+    color: #36846b;
+}
+
+#menu a:hover {
+    background-color: #f1e6d1;
+}
+
+span {
+    color: #36846b;
+}
+
+.link:link {
+    color: #4bb39a;
+}
+
+.link:visited {
+    color: #f1b24b;
+}
+
+.link:hover {
+    background-color: #f1e6d1;
 }

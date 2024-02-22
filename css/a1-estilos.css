@@ -1,0 +1,55 @@
+body{ 
+    background-color:#5457a6; }
+#zona-encabezado{
+    background-color:#302a77 ;
+    color: #eebb55;
+    text-align:center;
+}
+h1{
+    
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#zona-imagenes{
+    background-color: #f1e6d1;
+    text-align: center;
+}
+img{
+    width:30%;
+}
+.texto-cuerpo{
+    text-align: left;
+    background-color: #302a77;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#f1e6d1;
+}
+.nominados{
+    background-color: #302a77;
+    color: #eebb55;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bibliografia{
+    background-color:#302a77;
+    color: #f1e6d1;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.liga{
+    background-color: #f1e6d1;
+}
+.texto-final{
+    background-color: #f1e6d1;
+    color:#302a77;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+}
+.nombre{
+    color:#5457a6;
+}
